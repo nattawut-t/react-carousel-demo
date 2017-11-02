@@ -1,6 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
+import Carousel from './Carousel'
 
-const Root = () => ''
+// const Root = () => ''
 
-render(<Root />, document.querySelector('react'))
+render(<Carousel />, document.querySelector('react'))
